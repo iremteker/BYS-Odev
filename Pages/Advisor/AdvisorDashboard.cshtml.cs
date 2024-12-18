@@ -20,9 +20,10 @@ namespace SchoolManagementSystem.Pages.Advisor
         }
 
         [BindProperty]
-        public Student NewStudent { get; set; } = new Student();
+        public Student NewStudent { get; set; }
 
         public List<Student> StudentsList { get; set; } = new List<Student>();
+
 
         public string FullName { get; set; } = "Mehmet Yılmaz"; // Varsayılan değer
 

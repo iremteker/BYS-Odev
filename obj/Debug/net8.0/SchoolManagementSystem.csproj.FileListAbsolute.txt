@@ -170,3 +170,6 @@ C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\o
 C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.pdb
 C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.genruntimeconfig.cache
 C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\ref\SchoolManagementSystem.dll
+C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.RazorAssemblyInfo.cache
+C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.sourcelink.json
