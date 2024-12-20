@@ -30,7 +30,7 @@ namespace SchoolManagementSystem.Pages.Advisor
         //Sayfa yüklendiğinde tüm öğrencileri listeleme
         public async Task<IActionResult> OnGetAsync()
         {
-            // Veritabanýndan tüm öðrencileri çekiyoruz
+            // Veritabanından tüm öğrencileri çekiyoruz
             StudentsList = await _context.Students.ToListAsync();
             return Page();
         }
