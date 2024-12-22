@@ -18,11 +18,12 @@ namespace SchoolManagementSystem.Pages.Advisor
         {
             _context = context;
         }
+        
 
         [BindProperty]
-        public Student NewStudent { get; set; }
+        public Models.Student NewStudent { get; set; }
 
-        public List<Student> StudentsList { get; set; } = new List<Student>();
+        public List<Models.Student> StudentsList { get; set; } = new List<Models.Student>();
 
 
         public string FullName { get; set; } = "Mehmet Yılmaz"; // Varsayılan değer

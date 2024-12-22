@@ -1,0 +1,12 @@
+wwwroot\css\AdvisorDashboard.css
+wwwroot\css\EditStudent.css
+wwwroot\css\sayfa.css
+wwwroot\css\sayfa2.css
+wwwroot\css\StudentDashboard.css
+wwwroot\css\style.css
+wwwroot\image\ktu-logo.png
+wwwroot\index.html
+wwwroot\javascript\AdvisorDashboard.js
+wwwroot\javascript\login.js
+wwwroot\javascript\sayfa.js
+wwwroot\javascript\studentmenu.js

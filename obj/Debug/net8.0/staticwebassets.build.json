@@ -1,12 +1,1464 @@
 {
   "Version": 1,
-  "Hash": "HmvuYe8Kv51IULu6/Lz+jZ+rgN8vN3OyCxcAzdFJFFA=",
+  "Hash": "I/ZGDJuif66d56MMK8I+mynr6/xHy2EWN89UOkerF3M=",
   "Source": "SchoolManagementSystem",
   "BasePath": "_content/SchoolManagementSystem",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "SchoolManagementSystem\\wwwroot",
+      "Source": "SchoolManagementSystem",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolManagementSystem.styles.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "SchoolManagementSystem#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "qrep882unc",
+      "Integrity": "+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolManagementSystem.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolManagementSystem.bundle.scp.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "SchoolManagementSystem#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "qrep882unc",
+      "Integrity": "+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolManagementSystem.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\AdvisorDashboard.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "css/AdvisorDashboard#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7tushdsra0",
+      "Integrity": "+w9zYwIfxHlQVP1bIPiWGraFHBgMiQQa8CxlfW4pWvk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AdvisorDashboard.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\EditStudent.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "css/EditStudent#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2gfssgaxw",
+      "Integrity": "KQtztDt+d0xuvOR12xf9JKYzmkausWHoOsPpyNhUQiM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\EditStudent.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\sayfa.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "css/sayfa#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t3clw6vbye",
+      "Integrity": "idhcC9xxWasqQG8L4bj2v7jxVbHNtGp+uzJf++XeK20=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sayfa.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\sayfa2.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "css/sayfa2#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2fvs65da6b",
+      "Integrity": "8idI8eNZ1XiIFK4JADnqg4AXXJdh79XrlZ6zclHsI9k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sayfa2.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\StudentDashboard.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "css/StudentDashboard#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sfiuocyxuy",
+      "Integrity": "KB/HcVRsE7D9aOPpqTTdTWNJvYygwrIRgvAiL/9t9DQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StudentDashboard.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\style.css",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "izdny61ib2",
+      "Integrity": "co8l/yC1bn6SeptuH827slIENnpcsHA0GIE1/9FDHl0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\image\\ktu-logo.png",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "image/ktu-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ua6wl2yhjc",
+      "Integrity": "5sS7ctdbMthyAScxBB3IlKANJLqCLF85txk+GxbJrFc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\ktu-logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\index.html",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s2aw5f4l63",
+      "Integrity": "/MMPHpzGsRemUpX5NUUKO7ljT/skVGOEoKuqJDNNl+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\AdvisorDashboard.js",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "javascript/AdvisorDashboard#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dcdmfqmrph",
+      "Integrity": "89tB9gT9TCngjkVdIUUBF2PLJJuLTPRgActxPXUnGhM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\javascript\\AdvisorDashboard.js"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\login.js",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "javascript/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmx7bm7cdh",
+      "Integrity": "+Rj/Bl3VaQoiua6sqUUysSxsgQc+Bfc5+OoHyfUyFUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\javascript\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\sayfa.js",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "javascript/sayfa#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lkla6qhjhf",
+      "Integrity": "SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\javascript\\sayfa.js"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\studentmenu.js",
+      "SourceId": "SchoolManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementSystem",
+      "RelativePath": "javascript/studentmenu#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8o77gm8q0",
+      "Integrity": "gH1qWz15ur1maHFUzNlCD+tXpxS+j1v9E8ocqVqgc2E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\javascript\\studentmenu.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/AdvisorDashboard.7tushdsra0.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\AdvisorDashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+w9zYwIfxHlQVP1bIPiWGraFHBgMiQQa8CxlfW4pWvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:03:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7tushdsra0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AdvisorDashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+w9zYwIfxHlQVP1bIPiWGraFHBgMiQQa8CxlfW4pWvk="
+        }
+      ]
+    },
+    {
+      "Route": "css/AdvisorDashboard.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\AdvisorDashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+w9zYwIfxHlQVP1bIPiWGraFHBgMiQQa8CxlfW4pWvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:03:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+w9zYwIfxHlQVP1bIPiWGraFHBgMiQQa8CxlfW4pWvk="
+        }
+      ]
+    },
+    {
+      "Route": "css/EditStudent.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\EditStudent.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KQtztDt+d0xuvOR12xf9JKYzmkausWHoOsPpyNhUQiM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KQtztDt+d0xuvOR12xf9JKYzmkausWHoOsPpyNhUQiM="
+        }
+      ]
+    },
+    {
+      "Route": "css/EditStudent.x2gfssgaxw.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\EditStudent.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KQtztDt+d0xuvOR12xf9JKYzmkausWHoOsPpyNhUQiM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2gfssgaxw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/EditStudent.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KQtztDt+d0xuvOR12xf9JKYzmkausWHoOsPpyNhUQiM="
+        }
+      ]
+    },
+    {
+      "Route": "css/sayfa.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\sayfa.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1785"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idhcC9xxWasqQG8L4bj2v7jxVbHNtGp+uzJf++XeK20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:07:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-idhcC9xxWasqQG8L4bj2v7jxVbHNtGp+uzJf++XeK20="
+        }
+      ]
+    },
+    {
+      "Route": "css/sayfa.t3clw6vbye.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\sayfa.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1785"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idhcC9xxWasqQG8L4bj2v7jxVbHNtGp+uzJf++XeK20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:07:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3clw6vbye"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sayfa.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-idhcC9xxWasqQG8L4bj2v7jxVbHNtGp+uzJf++XeK20="
+        }
+      ]
+    },
+    {
+      "Route": "css/sayfa2.2fvs65da6b.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\sayfa2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8idI8eNZ1XiIFK4JADnqg4AXXJdh79XrlZ6zclHsI9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2fvs65da6b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sayfa2.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8idI8eNZ1XiIFK4JADnqg4AXXJdh79XrlZ6zclHsI9k="
+        }
+      ]
+    },
+    {
+      "Route": "css/sayfa2.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\sayfa2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8idI8eNZ1XiIFK4JADnqg4AXXJdh79XrlZ6zclHsI9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8idI8eNZ1XiIFK4JADnqg4AXXJdh79XrlZ6zclHsI9k="
+        }
+      ]
+    },
+    {
+      "Route": "css/StudentDashboard.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\StudentDashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KB/HcVRsE7D9aOPpqTTdTWNJvYygwrIRgvAiL/9t9DQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KB/HcVRsE7D9aOPpqTTdTWNJvYygwrIRgvAiL/9t9DQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/StudentDashboard.sfiuocyxuy.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\StudentDashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KB/HcVRsE7D9aOPpqTTdTWNJvYygwrIRgvAiL/9t9DQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfiuocyxuy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/StudentDashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KB/HcVRsE7D9aOPpqTTdTWNJvYygwrIRgvAiL/9t9DQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"co8l/yC1bn6SeptuH827slIENnpcsHA0GIE1/9FDHl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 11:41:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-co8l/yC1bn6SeptuH827slIENnpcsHA0GIE1/9FDHl0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.izdny61ib2.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"co8l/yC1bn6SeptuH827slIENnpcsHA0GIE1/9FDHl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 11:41:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "izdny61ib2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-co8l/yC1bn6SeptuH827slIENnpcsHA0GIE1/9FDHl0="
+        }
+      ]
+    },
+    {
+      "Route": "image/ktu-logo.png",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\image\\ktu-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sS7ctdbMthyAScxBB3IlKANJLqCLF85txk+GxbJrFc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:16:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sS7ctdbMthyAScxBB3IlKANJLqCLF85txk+GxbJrFc="
+        }
+      ]
+    },
+    {
+      "Route": "image/ktu-logo.ua6wl2yhjc.png",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\image\\ktu-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sS7ctdbMthyAScxBB3IlKANJLqCLF85txk+GxbJrFc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:16:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ua6wl2yhjc"
+        },
+        {
+          "Name": "label",
+          "Value": "image/ktu-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sS7ctdbMthyAScxBB3IlKANJLqCLF85txk+GxbJrFc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/MMPHpzGsRemUpX5NUUKO7ljT/skVGOEoKuqJDNNl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 11:45:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/MMPHpzGsRemUpX5NUUKO7ljT/skVGOEoKuqJDNNl+g="
+        }
+      ]
+    },
+    {
+      "Route": "index.s2aw5f4l63.html",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/MMPHpzGsRemUpX5NUUKO7ljT/skVGOEoKuqJDNNl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 11:45:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2aw5f4l63"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/MMPHpzGsRemUpX5NUUKO7ljT/skVGOEoKuqJDNNl+g="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/AdvisorDashboard.dcdmfqmrph.js",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\AdvisorDashboard.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"89tB9gT9TCngjkVdIUUBF2PLJJuLTPRgActxPXUnGhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:21:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dcdmfqmrph"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/AdvisorDashboard.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-89tB9gT9TCngjkVdIUUBF2PLJJuLTPRgActxPXUnGhM="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/AdvisorDashboard.js",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\AdvisorDashboard.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"89tB9gT9TCngjkVdIUUBF2PLJJuLTPRgActxPXUnGhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:21:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-89tB9gT9TCngjkVdIUUBF2PLJJuLTPRgActxPXUnGhM="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/login.hmx7bm7cdh.js",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Rj/Bl3VaQoiua6sqUUysSxsgQc+Bfc5+OoHyfUyFUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 11:50:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmx7bm7cdh"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Rj/Bl3VaQoiua6sqUUysSxsgQc+Bfc5+OoHyfUyFUo="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/login.js",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Rj/Bl3VaQoiua6sqUUysSxsgQc+Bfc5+OoHyfUyFUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 11:50:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Rj/Bl3VaQoiua6sqUUysSxsgQc+Bfc5+OoHyfUyFUo="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/sayfa.js",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\sayfa.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/sayfa.lkla6qhjhf.js",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\sayfa.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lkla6qhjhf"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/sayfa.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SzYOJgDHCh3aGbMykbm0zVP+92wMw4P+Xu3/g2HhSSw="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/studentmenu.js",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\studentmenu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gH1qWz15ur1maHFUzNlCD+tXpxS+j1v9E8ocqVqgc2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gH1qWz15ur1maHFUzNlCD+tXpxS+j1v9E8ocqVqgc2E="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/studentmenu.w8o77gm8q0.js",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\studentmenu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gH1qWz15ur1maHFUzNlCD+tXpxS+j1v9E8ocqVqgc2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8o77gm8q0"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/studentmenu.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gH1qWz15ur1maHFUzNlCD+tXpxS+j1v9E8ocqVqgc2E="
+        }
+      ]
+    },
+    {
+      "Route": "SchoolManagementSystem.bundle.scp.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolManagementSystem.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 10:32:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw="
+        }
+      ]
+    },
+    {
+      "Route": "SchoolManagementSystem.qrep882unc.bundle.scp.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolManagementSystem.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 10:32:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrep882unc"
+        },
+        {
+          "Name": "label",
+          "Value": "SchoolManagementSystem.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw="
+        }
+      ]
+    },
+    {
+      "Route": "SchoolManagementSystem.qrep882unc.styles.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolManagementSystem.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 10:32:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrep882unc"
+        },
+        {
+          "Name": "label",
+          "Value": "SchoolManagementSystem.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw="
+        }
+      ]
+    },
+    {
+      "Route": "SchoolManagementSystem.styles.css",
+      "AssetFile": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolManagementSystem.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 10:32:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+iDrfR0n5x7t7onJOXXmsgmwQnTpo7KuofdA6GeFuLw="
+        }
+      ]
+    }
+  ]
 }

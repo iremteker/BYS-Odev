@@ -7,6 +7,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\css\AdvisorDashboard.css" />
+    <None Include="wwwroot\css\EditStudent.css" />
+    <None Include="wwwroot\css\sayfa.css" />
+    <None Include="wwwroot\css\sayfa2.css" />
+    <None Include="wwwroot\css\StudentDashboard.css" />
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\image\ktu-logo.png" />
+    <None Include="wwwroot\javascript\AdvisorDashboard.js" />
+    <None Include="wwwroot\javascript\login.js" />
+    <None Include="wwwroot\javascript\sayfa.js" />
+    <None Include="wwwroot\javascript\studentmenu.js" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
       <PrivateAssets>all</PrivateAssets>

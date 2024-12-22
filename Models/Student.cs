@@ -12,6 +12,6 @@
         // Navigasyon Özellikleri
         public Advisor Advisor { get; set; } = null!; // Öğrencinin danışmanı
 
-        public ICollection<Student> StudentCourseSelection { get; set; } = new List<Student>(); // Öğrencinin ders seçimleri
+        public ICollection<StudentCourseSelection> StudentCourseSelection { get; set; } = new List<StudentCourseSelection>(); // Öğrencinin ders seçimleri
     }
 }

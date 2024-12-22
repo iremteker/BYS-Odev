@@ -41,7 +41,7 @@ namespace SchoolManagementSystem.Data
 
             modelBuilder.Entity<StudentCourseSelection>()
                 .HasOne(scs => scs.Student) // Ders seçimi bir öğrenciye bağlı
-                .WithMany(s => s.StudentCourseSelections) // Bir öğrencinin birden fazla ders seçimi olabilir
+                .WithMany(s => s.StudentCourseSelection) // Bir öğrencinin birden fazla ders seçimi olabilir
                 .HasForeignKey(scs => scs.StudentID)
                 .OnDelete(DeleteBehavior.Cascade); // Öğrenci silinirse ilgili seçimler de silinir
 

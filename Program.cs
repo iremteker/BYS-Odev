@@ -25,15 +25,18 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.MapRazorPages();
+
 
 app.UseStaticFiles();
+
+app.MapFallbackToFile("index.html");
 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapRazorPages();
 
 app.Run();
 

@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolManagementSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SchoolManagementSystem.qrep882unc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\AdvisorDashboard.css",
+      "PackagePath": "staticwebassets\\css\\AdvisorDashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\EditStudent.css",
+      "PackagePath": "staticwebassets\\css\\EditStudent.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\StudentDashboard.css",
+      "PackagePath": "staticwebassets\\css\\StudentDashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\sayfa.css",
+      "PackagePath": "staticwebassets\\css\\sayfa.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\sayfa2.css",
+      "PackagePath": "staticwebassets\\css\\sayfa2.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\image\\ktu-logo.png",
+      "PackagePath": "staticwebassets\\image\\ktu-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\AdvisorDashboard.js",
+      "PackagePath": "staticwebassets\\javascript\\AdvisorDashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\login.js",
+      "PackagePath": "staticwebassets\\javascript\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\sayfa.js",
+      "PackagePath": "staticwebassets\\javascript\\sayfa.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SchoolManagementSystemSolution\\SchoolManagementSystem\\wwwroot\\javascript\\studentmenu.js",
+      "PackagePath": "staticwebassets\\javascript\\studentmenu.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SchoolManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SchoolManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SchoolManagementSystem.props",
+      "PackagePath": "build\\SchoolManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SchoolManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\SchoolManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SchoolManagementSystem.props",
+      "PackagePath": "buildTransitive\\SchoolManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -173,3 +173,6 @@ C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\o
 C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.RazorAssemblyInfo.cache
 C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.RazorAssemblyInfo.cs
 C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.sourcelink.json
+C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\bin\Debug\net8.0\SchoolManagementSystem.staticwebassets.runtime.json
+C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\scopedcss\Pages\Layout\_Layout.cshtml.rz.scp.css
+C:\Users\PC\source\repos\SchoolManagementSystemSolution\SchoolManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\SchoolManagementSystem.bundle.scp.css
